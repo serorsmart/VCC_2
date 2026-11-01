@@ -1,0 +1,8 @@
+VCC_2 - GitHub workflow practice
+
+This project is a simple learning portfolio.
+Technologies: HTML, CSS, and JavaScript.
+Design interests: UI and UX.
+
+Track each future change with a GitHub issue.
+Complete changes on separate branches and review each pull request.
